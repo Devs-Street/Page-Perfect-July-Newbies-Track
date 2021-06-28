@@ -19,3 +19,18 @@ with one of the thousands of companies that have a website.
 This repository will contain various web development projects developed by the team members as a part of this program along with <br />
 some useful resources. <br />
 <br /> <br />
+## Team
+### Mentor: 
+* [Subham Choudhury](https://github.com/SubhamChoudhury)
+* [T Sathya Narayana](https://github.com/sathya050801)
+<br /> <br />
+### Mentees:
+* [Amruth](https://github.com/amruth0098)
+* [Jovan Titus](https://github.com/jjovantitus)
+* [Lokhana](https://github.com/)
+* [Neha](https://github.com/Neha130)
+* [Poojitha](https://github.com/)
+* [Prayasu Sidha Satapathy](https://github.com/prayasu-satapathy)
+* [Ranjith Kumar JK](https://github.com/)
+* [Vijay](https://github.com/)
+* [Subham](https://github.com/)
