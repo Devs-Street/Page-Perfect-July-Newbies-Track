@@ -8,7 +8,7 @@ It aims to mentor the teammates to strengthen their web development and web desi
   * Beginners
   * Intermediate
   <br /> <br />
-## Beginners' Track
+## Newbies Track
 The Newbies track is for the freshers who are planning to start their web development journey. <br />
 In this Track, the mentees will learn the fundamentals of websites such as fornt-end, back-end, dev-ops,git and helping you to start with HTML, CSS, and JavaScript — <br />
 three common coding languages on which all modern websites are built. <br />
